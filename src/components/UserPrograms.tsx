@@ -201,7 +201,7 @@ const UserPrograms = () => {
 
         {/* CTA section */}
         <div className="mt-16 text-center">
-          <Link href="/generate-program">
+          <Link href="/generate_program">
             <Button
               size="lg"
               className="bg-primary text-primary-foreground hover:bg-primary/90 px-8 py-6 text-lg"
@@ -211,7 +211,7 @@ const UserPrograms = () => {
             </Button>
           </Link>
           <p className="text-muted-foreground mt-4">
-            Join 500+ users with AI-customized fitness programs
+            Join the AI-customized fitness programs
           </p>
         </div>
       </div>

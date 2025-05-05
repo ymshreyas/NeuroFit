@@ -25,7 +25,7 @@ const Footer = () => {
           </div>
 
           {/* Links */}
-          <div className="grid grid-cols-2 md:grid-cols-3 gap-x-12 gap-y-2 text-sm">
+          {/* <div className="grid grid-cols-2 md:grid-cols-3 gap-x-12 gap-y-2 text-sm">
             <Link
               href="/about"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -62,7 +62,7 @@ const Footer = () => {
             >
               Help
             </Link>
-          </div>
+          </div> */}
 
           {/* Status */}
           <div className="flex items-center gap-2 px-3 py-2 border border-border rounded-md bg-background/50">
