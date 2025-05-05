@@ -79,7 +79,14 @@
 "use client";
 
 import { SignInButton, SignUpButton, UserButton, useUser } from "@clerk/nextjs";
-import { DumbbellIcon, HomeIcon, UserIcon, ZapIcon, MenuIcon, XIcon } from "lucide-react";
+import {
+  DumbbellIcon,
+  HomeIcon,
+  UserIcon,
+  ZapIcon,
+  MenuIcon,
+  XIcon,
+} from "lucide-react";
 import Link from "next/link";
 import { Button } from "./ui/button";
 import { useState } from "react";
