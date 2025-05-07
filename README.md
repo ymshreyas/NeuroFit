@@ -1,6 +1,6 @@
 # 🧠 NeuroFit – Personalized AI Fitness Trainer
 
-**NeuroFit** is an AI-powered fitness platform that delivers personalized workout and diet plans through an intuitive voice interface. Built with cutting-edge technologies like **Next.js**, **Convex**, **Clerk**, and **Gemini AI**, it offers real-time program generation and seamless user experiences.
+**NeuroFit** is an AI-powered fitness platform that delivers personalized workout and diet plans through an intuitive voice interface. Built with cutting-edge technologies like **Next.js**, **Convex**, **Clerk**, **Vapi AI** and **Gemini AI**, it offers real-time program generation and seamless user experiences.
 
 🔗 **Live Demo**: [Website Link](https://neurofit-sooty.vercel.app)
 
@@ -69,7 +69,8 @@ yarn install
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 CLERK_SECRET_KEY=your_clerk_secret_key
 NEXT_PUBLIC_CONVEX_URL=your_convex_url
-NEXT_PUBLIC_API_KEY=your_api_key
+NEXT_PUBLIC_VAPI_API_KEY=your_vapi_api_key
+NEXT_PUBLIC_VAPI_WORKFLOW_ID=your_vapi_workflow_id
 ```
 
 ### 4️⃣ Run the Development Server
