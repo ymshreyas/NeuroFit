@@ -1,4 +1,4 @@
-# 🧠 NeuroFit – Personalized AI Fitness Trainer
+# NeuroFit – Personalized AI Fitness Trainer
 
 **NeuroFit** is an AI-powered fitness platform that delivers personalized workout and diet plans through an intuitive voice interface. Built with cutting-edge technologies like **Next.js**, **Convex**, **Clerk**, **Vapi AI** and **Gemini AI**, it offers real-time program generation and seamless user experiences.
 
